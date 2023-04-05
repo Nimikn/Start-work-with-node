@@ -1,0 +1,24 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "start work with node",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nimikn/Start-work-with-node.git"
+  },
+  "author": "Malyi Mykhailo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nimikn/Start-work-with-node/issues"
+  },
+  "homepage": "https://github.com/Nimikn/Start-work-with-node#readme",
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "cowsay": "^1.5.0",
+    "random-jokes-api": "^1.5.9"
+  }
+}
